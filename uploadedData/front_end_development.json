@@ -1,0 +1,12 @@
+{ 
+    "questions": [
+    {
+        "question": "Which is the framework for server side JS?",
+        "options": ["HTML5", "AngularJS", "NodeJS", "MongoDB"]
+    },
+    {
+        "question": "What is the most prevalent MVC front end framework?",
+        "options": ["AngularJS", "SpineJS", "BackboneJS", "NodeJS"]
+    }
+    ]
+}
